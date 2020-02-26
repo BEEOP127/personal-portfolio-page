@@ -10,28 +10,27 @@ body {
       background-image: url(img1.png);
       background-attachment: fixed;
       background-size: cover;
-
+      
   }
 
   .profileBody {
+    min-width: 500px; 
     display: inline-block;
-    font-family: 'Franklin Gothic Medium';
-    margin-left: auto;
-    margin-top: auto;
-    padding-left: 25px;
-    padding-right: 25px;
+    margin-top: 6px;
+    margin-left: 55px;   
     text-align: left;
     align-self: start;
-    padding-top: 6px;
-    padding-bottom: 5px;
-    color: rgb(255, 255, 255);
+    width: 75%;
+    height: 590px;
+    color: rgb(255, 255, 255);  
   }
-
+  
 .headfact
 {
-  text-align: center;
+  text-align: center;     
   color: rgb(255, 255, 255);
 }
 
+ 
 
-
+  
