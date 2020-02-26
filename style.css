@@ -1,1 +1,37 @@
-/* Add your CSS code here */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-image: url(img1.png);
+      background-attachment: fixed;
+      background-size: cover;
+
+  }
+
+  .profileBody {
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium';
+    margin-left: auto;
+    margin-top: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: left;
+    align-self: start;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    color: rgb(255, 255, 255);
+  }
+
+.headfact
+{
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+
+
