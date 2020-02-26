@@ -14,7 +14,7 @@ body
 
   .profileBody 
   {
-    background-color: rgba(224, 238, 238, 1);
+    background-color: rgb(255, 255, 255);
     min-width: 500px; 
     display: inline-block;
     margin-top: 6px;
@@ -26,11 +26,6 @@ body
       
   }
   
-.headfact
-{
-  text-align: center;     
-  
-}
 
  
 
