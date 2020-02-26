@@ -5,7 +5,8 @@
 
   }
 
-body {
+body 
+  {
       min-width: 500px;
       background-image: url(img1.png);
       background-attachment: fixed;
@@ -13,7 +14,9 @@ body {
       
   }
 
-  .profileBody {
+  .profileBody 
+  {
+    background-color: black;
     min-width: 500px; 
     display: inline-block;
     margin-top: 6px;
@@ -22,13 +25,13 @@ body {
     align-self: start;
     width: 75%;
     height: 590px;
-    color: rgb(255, 255, 255);  
+    color: white;  
   }
   
 .headfact
 {
   text-align: center;     
-  color: rgb(255, 255, 255);
+  color: white;
 }
 
  
